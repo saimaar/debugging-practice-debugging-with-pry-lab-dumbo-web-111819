@@ -16,8 +16,6 @@ def greet_crew (crew)
   new_array = []
   crew.each {|crew_member|  
    new_array << "Hello" + " " + crew_member
-   p new_array
-  
   }
 end
 
