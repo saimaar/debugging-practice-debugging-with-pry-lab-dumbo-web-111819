@@ -9,7 +9,10 @@ def turtles
 end
 
 def turtle_traits(turtles)
-  turtles.map {|turtle|}
+  turtles.map {|turtle|
+    
+    
+  }
     
 
 end
