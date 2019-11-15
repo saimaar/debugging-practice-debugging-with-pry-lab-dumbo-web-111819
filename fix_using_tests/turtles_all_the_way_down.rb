@@ -11,6 +11,7 @@ end
 def turtle_traits(turtles)
   turtles.map {|turtle|
     turtle[:traits].each{|ele|
+    p ele
     }
   }
     
