@@ -14,7 +14,7 @@ end
 
 def greet_crew (crew)
   new_array = []
-  crew.each {|crew_member|  puts Hello #{crew_member}.
+  crew.each {|crew_member|  .
   
   
   }
