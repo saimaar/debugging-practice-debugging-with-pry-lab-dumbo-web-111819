@@ -11,6 +11,7 @@ end
 def turtle_traits(turtles)
   turtles.map do |turtle|
     array = turtle[:trait]
+    p array 
     turtle[:traits].each do |trait|
       p trait
     end
