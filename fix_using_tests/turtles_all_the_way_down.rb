@@ -13,7 +13,7 @@ def turtle_traits(turtles)
     array = turtle[:trait]
     p array 
     turtle[:traits].each do |trait|
-      p trait
+      trait
     end
   end
 
