@@ -16,5 +16,5 @@ def turtle_traits(turtles)
       trait
     }
   {
-p trait 
+
 end
